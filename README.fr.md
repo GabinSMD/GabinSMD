@@ -189,6 +189,7 @@ Une mission se déroule en quatre temps : comprendre le métier, cadrer la solut
 Un projet ? Décrivez votre besoin, votre contexte et votre échéance, je vous réponds avec un devis.
 
 <a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-0b1020?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
+<a href="tel:+33761168918"><img src="https://img.shields.io/badge/%2B33%207%2061%2016%2089%2018-0b1020?style=for-the-badge" alt="+33 7 61 16 89 18" /></a>
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
 
 <br />

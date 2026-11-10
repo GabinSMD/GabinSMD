@@ -1,46 +1,46 @@
 <div align="center">
 
 <a href="https://gabin-simond.fr">
-  <img src="./assets/header.en.svg" alt="Gabin Simond — Developer &amp; DevSecOps. Code, a homelab and home-made projects." width="100%" />
+  <img src="./assets/header.fr.svg" alt="Gabin Simond — Développeur &amp; DevSecOps. Du code, un homelab et des projets faits maison." width="100%" />
 </a>
 
 <br />
 <br />
 
-<a href="./README.md">🇫🇷 Français</a> &nbsp;·&nbsp; <strong>🇬🇧 English</strong>
+<a href="./README.md">🇬🇧 English</a> &nbsp;·&nbsp; <strong>🇫🇷 Français</strong>
 
 <br />
 <br />
 
-<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Website" /></a>
-<a href="https://github.com/GabinSMD?tab=repositories"><img src="https://img.shields.io/badge/My%20repos-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub repositories" /></a>
-<img src="https://img.shields.io/badge/Cybersecurity%20Engineer-SecNumEdu-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Cybersecurity Engineer — SecNumEdu" />
+<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Site web" /></a>
+<a href="https://github.com/GabinSMD?tab=repositories"><img src="https://img.shields.io/badge/Mes%20d%C3%A9p%C3%B4ts-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Dépôts GitHub" /></a>
+<img src="https://img.shields.io/badge/Ing%C3%A9nieur%20Cybers%C3%A9curit%C3%A9-SecNumEdu-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Ingénieur Cybersécurité — SecNumEdu" />
 <a href="https://github.com/GabinSMD?tab=followers"><img src="https://img.shields.io/github/followers/GabinSMD?style=for-the-badge&label=Followers&labelColor=0b1020&color=1a1238&logo=github&logoColor=f0abfc" alt="Followers" /></a>
 
 </div>
 
 <br />
 
-## 👋 Hi, I'm Gabin
+## 👋 Salut, moi c'est Gabin
 
-Software engineer specialised in **cybersecurity**, based in **France**. I like figuring out how things work, then rebuilding them my own way: a web app, a toolbox for streamers, or a homelab that runs my whole stack at home.
+Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, une boîte à outils pour streamers, ou un homelab qui fait tourner toute ma stack à la maison.
 
-- 🎓 &nbsp;**Engineering degree in digital technology**, Cybersecurity major — a programme holding the **SecNumEdu** label from ANSSI, the French national cybersecurity agency
-- 🔐 &nbsp;**DevSecOps** — a big part of what I do: security built into the pipeline, not bolted on at the end
-- 🏠 &nbsp;**Homelab** — ZimaBoards and a Raspberry Pi 4, Docker, and a carefully tuned OS ([the docs are online](https://homelab.gabin-simond.fr), in French)
-- 🧩 &nbsp;**Jack of all trades** — TypeScript, JavaScript, Bash, whatever the project calls for
-- 📝 &nbsp;**I document what I build** — because a project without docs is a project you end up redoing
-- 🌐 &nbsp;Everything else is on **[gabin-simond.fr](https://gabin-simond.fr)**
+- 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
+- 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
+- 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons ([la doc est en ligne](https://homelab.gabin-simond.fr))
+- 🧩 &nbsp;**Touche-à-tout** — TypeScript, JavaScript, Bash, selon ce que le projet demande
+- 📝 &nbsp;**Je documente ce que je construis** — parce qu'un projet sans doc est un projet qu'on refait
+- 🌐 &nbsp;Tout le reste est sur **[gabin-simond.fr](https://gabin-simond.fr)**
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🛠️ My toolbox
+## 🛠️ Ma boîte à outils
 
-What I actually use in my projects and on my homelab.
+Ce que j'utilise vraiment dans mes projets et sur mon homelab.
 
 <table>
   <tr>
-    <td valign="top"><strong>Languages</strong></td>
+    <td valign="top"><strong>Langages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -85,7 +85,7 @@ What I actually use in my projects and on my homelab.
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Security &amp; DevSecOps</strong></td>
+    <td valign="top"><strong>Sécurité &amp; DevSecOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Authelia-113155?style=flat-square&logo=authelia&logoColor=white" alt="Authelia" />
       <img src="https://img.shields.io/badge/CrowdSec-F5A623?style=flat-square&logo=crowdsec&logoColor=black" alt="CrowdSec" />
@@ -101,7 +101,7 @@ What I actually use in my projects and on my homelab.
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Observability &amp; CI/CD</strong></td>
+    <td valign="top"><strong>Observabilité &amp; CI/CD</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -114,47 +114,47 @@ What I actually use in my projects and on my homelab.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 🚀 Projects
+## 🚀 Projets
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://petanque.gabin-simond.fr/">Pétanque Concours</a></h3>
-      <p>Multi-club SaaS for running pétanque tournaments, with a full offline mode: draws, pools, brackets and scores all work without a connection at the pitch, then sync back.</p>
-      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Open%20the%20app-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the app" /></a>
-      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <p>Gestion de concours de pétanque en SaaS multi-clubs, avec un mode hors-ligne complet : tirages, poules, tableaux et scores fonctionnent sans réseau au boulodrome, puis se synchronisent.</p>
+      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Ouvrir%20l'app-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Ouvrir l'application" /></a>
+      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
       <h3>📺 <a href="https://gabinsmd.github.io/StreamBox/index.html">StreamBox</a></h3>
-      <p>A free, open-source toolbox for streamers: multi-platform chat, alerts, goals, polls, giveaways, subathon timer… as OBS overlays, with nothing to install and no account to connect.</p>
-      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the site" /></a>
-      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <p>Une boîte à outils gratuite et open source pour streamers : chat multi-plateformes, alertes, objectifs, sondages, giveaways, timer de subathon… en overlays OBS, sans rien installer ni compte à connecter.</p>
+      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Ouvrir le site" /></a>
+      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💃 Ecole SAAS</h3>
-      <p>A SaaS for managing dance schools.</p>
+      <p>Un SaaS de gestion d'école de danse.</p>
       <img src="https://img.shields.io/badge/SaaS-6D28D9?style=flat-square" alt="SaaS" />
-      <img src="https://img.shields.io/badge/Private%20repo-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Private repo" />
+      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
     </td>
     <td width="50%" valign="top">
       <h3>🔗 <a href="https://ffd.gabin-simond.fr">FFD Connect</a></h3>
-      <p>An independent dancesport app, in open beta on iPhone and Android: your licence available offline, the competition schedule, practice music sorted by dance, and club member management. Not affiliated with the Fédération Française de Danse.</p>
-      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the site" /></a>
+      <p>Une application indépendante de danse sportive, en bêta ouverte sur iPhone et Android : licence consultable sans réseau, programme des compétitions, musique d'entraînement par danse et gestion des membres du club. Non affiliée à la Fédération Française de Danse.</p>
+      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Ouvrir le site" /></a>
       <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/Open%20beta-6D28D9?style=flat-square" alt="Open beta" />
+      <img src="https://img.shields.io/badge/B%C3%AAta%20ouverte-6D28D9?style=flat-square" alt="Bêta ouverte" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏠 <a href="https://homelab.gabin-simond.fr">Homelab Documentation</a></h3>
-      <p>The public logbook of my homelab: architecture, self-hosted services, hardening, observability and runbooks — everything needed to rebuild it from scratch.</p>
-      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Read%20the%20docs-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Read the documentation" /></a>
-      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <h3>🏠 <a href="https://homelab.gabin-simond.fr">Documentation Homelab</a></h3>
+      <p>Le journal de bord public de mon homelab : architecture, services auto-hébergés, durcissement, observabilité et runbooks — de quoi tout reconstruire de zéro.</p>
+      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Lire la documentation" /></a>
+      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" alt="Docusaurus" />
@@ -164,17 +164,17 @@ What I actually use in my projects and on my homelab.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## 📫 Get in touch
+## 📫 Me contacter
 
 <div align="center">
 
-An idea, a question, a project? The easiest way is through my website.
+Une idée, une question, un projet ? Le plus simple est de passer par mon site.
 
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-a78bfa?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
 
 <br />
 <br />
 
-<sub>Made with ☕ and a homelab that never sleeps.</sub>
+<sub>Fait avec ☕ et un homelab qui ne dort jamais.</sub>
 
 </div>

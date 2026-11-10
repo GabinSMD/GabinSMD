@@ -138,9 +138,11 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     </td>
     <td width="50%" valign="top">
       <h3>🔗 <a href="https://ffd.gabin-simond.fr">FFD Connect</a></h3>
-      <p>Un projet en cours de développement.</p>
+      <p>Une application indépendante de danse sportive, en bêta ouverte sur iPhone et Android : licence consultable sans réseau, programme des compétitions, musique d'entraînement par danse et gestion des membres du club. Non affiliée à la Fédération Française de Danse.</p>
       <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Ouvrir le site" /></a>
-      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/B%C3%AAta%20ouverte-6D28D9?style=flat-square" alt="Bêta ouverte" />
     </td>
   </tr>
   <tr>

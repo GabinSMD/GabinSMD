@@ -145,7 +145,7 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🏠 <a href="https://homelab.gabin-simond.fr">homelab-doc</a></h3>
+      <h3>🏠 <a href="https://homelab.gabin-simond.fr">Documentation Homelab</a></h3>
       <p>Le journal de bord public de mon homelab : architecture, services auto-hébergés, durcissement, observabilité et runbooks — de quoi tout reconstruire de zéro.</p>
       <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Lire la documentation" /></a>
       <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Code source" /></a>

@@ -48,9 +48,9 @@ Cybersecurity engineer and **integration consultant**, based in **France**. I st
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>📺 <a href="https://gabinsmd.github.io/StreamBox/index.html">StreamBox</a></h3>
+      <h3>📺 <a href="https://streambox.gabin-simond.fr/">StreamBox</a></h3>
       <p>A free, open-source toolbox for streamers: multi-platform chat, alerts, goals, polls, giveaways, subathon timer… as OBS overlays, with nothing to install and no account to connect.</p>
-      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Open%20the%20site-334155?style=flat-square&logo=safari&logoColor=white" alt="Open the site" /></a>
+      <a href="https://streambox.gabin-simond.fr/"><img src="https://img.shields.io/badge/Open%20the%20site-334155?style=flat-square&logo=safari&logoColor=white" alt="Open the site" /></a>
       <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
     </td>

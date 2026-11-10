@@ -137,8 +137,9 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
       <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 FFD Connect</h3>
+      <h3>🔗 <a href="https://ffd.gabin-simond.fr">FFD Connect</a></h3>
       <p>Un projet en cours de développement.</p>
+      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Ouvrir le site" /></a>
       <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
     </td>
   </tr>

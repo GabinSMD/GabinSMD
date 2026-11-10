@@ -24,8 +24,9 @@
 
 ## 👋 Hi, I'm Gabin
 
-Software engineer specialised in **cybersecurity**, based in **France**. I like figuring out how things work, then rebuilding them my own way: a web app, a toolbox for streamers, or a homelab that runs my whole stack at home.
+Cybersecurity engineer and **integration consultant**, based in **France**. I start from a business need, then build, secure and host the tool that answers it. I like figuring out how things work, then rebuilding them my own way: a web app, a toolbox for streamers, or a homelab that runs my whole stack at home.
 
+- 💼 &nbsp;**Today** — integration consultant, between product, business and the technical solution; freelance developer on the side
 - 🎓 &nbsp;**Engineering degree in digital technology**, Cybersecurity major — a programme holding the **SecNumEdu** label from ANSSI, the French national cybersecurity agency
 - 🔐 &nbsp;**DevSecOps** — a big part of what I do: security built into the pipeline, not bolted on at the end. See my homelab's [threat model](https://homelab.gabin-simond.fr/securite/politique) and [hardening notes](https://homelab.gabin-simond.fr/securite/hardening) (in French)
 - 🏠 &nbsp;**Homelab** — ZimaBoards and a Raspberry Pi 4, Docker, and a carefully tuned OS ([the docs are online](https://homelab.gabin-simond.fr), in French)
@@ -56,7 +57,7 @@ Software engineer specialised in **cybersecurity**, based in **France**. I like 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💃 Ecole SAAS</h3>
+      <h3>💃 École SaaS</h3>
       <p>A SaaS for managing dance schools.</p>
       <img src="https://img.shields.io/badge/SaaS-0062FE?style=flat-square" alt="SaaS" />
       <img src="https://img.shields.io/badge/Private%20repo-0b1020?style=flat-square&logo=github&logoColor=white" alt="Private repo" />
@@ -174,12 +175,24 @@ What I actually use in my projects and on my homelab.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
+## 💼 Work with me
+
+Your business problem, a tailor-made tool. I work as a freelancer, and a project runs in four steps: **understand** your business and constraints, **scope** the solution and the quote, **build and secure** the tool, then **ship and document** it.
+
+- 🛠️ &nbsp;**Custom business tools** — applications that start from a concrete need, like the ones above
+- 🔐 &nbsp;**DevSecOps and hardening** — code analysis, secret detection, image scanning, dependencies kept up to date
+- 🏠 &nbsp;**Self-hosting and infrastructure** — Docker services, reverse proxy, authentication, monitoring, backups, all documented
+- 🌐 &nbsp;**Turnkey WordPress sites** — setup, SSL certificate, protection against common attacks, automatic backups, domain name and hosting
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+
 ## 📫 Get in touch
 
 <div align="center">
 
-An idea, a question, a project? The easiest way is through my website.
+Got a project? Tell me about your need, your context and your deadline, and I'll come back with a quote.
 
+<a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-0b1020?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
 
 <br />

@@ -24,8 +24,9 @@
 
 ## 👋 Salut, moi c'est Gabin
 
-Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, une boîte à outils pour streamers, ou un homelab qui fait tourner toute ma stack à la maison.
+Ingénieur cybersécurité et **consultant intégration**, basé en **France**. Je pars d'un métier, puis je construis, je sécurise et j'héberge l'outil qui y répond. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, une boîte à outils pour streamers, ou un homelab qui fait tourner toute ma stack à la maison.
 
+- 💼 &nbsp;**Aujourd'hui** — consultant intégration, entre le produit, le métier et la solution technique ; développeur indépendant en parallèle
 - 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
 - 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin. Voir le [modèle de menace](https://homelab.gabin-simond.fr/securite/politique) et le [durcissement](https://homelab.gabin-simond.fr/securite/hardening) de mon homelab
 - 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons ([la doc est en ligne](https://homelab.gabin-simond.fr))
@@ -56,7 +57,7 @@ Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💃 Ecole SAAS</h3>
+      <h3>💃 École SaaS</h3>
       <p>Un SaaS de gestion d'école de danse.</p>
       <img src="https://img.shields.io/badge/SaaS-0062FE?style=flat-square" alt="SaaS" />
       <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=white" alt="Dépôt privé" />
@@ -174,12 +175,24 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
+## 💼 Travailler avec moi
+
+Votre problématique métier, un outil sur mesure. Je travaille en indépendant, et une mission se déroule en quatre temps : **comprendre** votre métier et vos contraintes, **cadrer** la solution et le devis, **construire et sécuriser** l'outil, puis le **mettre en ligne et le documenter**.
+
+- 🛠️ &nbsp;**Outils métier sur mesure** — des applications parties d'un besoin concret, comme celles présentées plus haut
+- 🔐 &nbsp;**DevSecOps et sécurisation** — analyse du code, détection de secrets, scan des images, dépendances tenues à jour
+- 🏠 &nbsp;**Auto-hébergement et infrastructure** — services sous Docker, reverse proxy, authentification, supervision, sauvegardes, avec leur documentation
+- 🌐 &nbsp;**Sites WordPress clés en main** — installation, certificat SSL, protection contre les attaques courantes, sauvegardes automatiques, nom de domaine et hébergement
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+
 ## 📫 Me contacter
 
 <div align="center">
 
-Une idée, une question, un projet ? Le plus simple est de passer par mon site.
+Un projet ? Décrivez votre besoin, votre contexte et votre échéance, je vous réponds avec un devis.
 
+<a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-0b1020?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
 
 <br />

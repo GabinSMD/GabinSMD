@@ -15,8 +15,8 @@
 <br />
 <br />
 
-<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=white" alt="Site web" /></a>
-<img src="https://img.shields.io/badge/Ing%C3%A9nieur%20Cybers%C3%A9curit%C3%A9-SecNumEdu-0062FE?style=for-the-badge&labelColor=0b1020" alt="Ingénieur Cybersécurité — SecNumEdu" />
+<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-334155?style=for-the-badge&logo=safari&logoColor=white" alt="Site web" /></a>
+<img src="https://img.shields.io/badge/Ing%C3%A9nieur%20Cybers%C3%A9curit%C3%A9-SecNumEdu-0062FE?style=for-the-badge&labelColor=334155" alt="Ingénieur Cybersécurité — SecNumEdu" />
 
 </div>
 
@@ -43,15 +43,15 @@ Ingénieur cybersécurité et **consultant intégration**, basé en **France**. 
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://petanque.gabin-simond.fr/">Pétanque Concours</a></h3>
       <p>Gestion de concours de pétanque en SaaS multi-clubs, avec un mode hors-ligne complet : tirages, poules, tableaux et scores fonctionnent sans réseau au boulodrome, puis se synchronisent.</p>
-      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Ouvrir%20l'app-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir l'application" /></a>
-      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
+      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Ouvrir%20l'app-334155?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir l'application" /></a>
+      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
       <h3>📺 <a href="https://gabinsmd.github.io/StreamBox/index.html">StreamBox</a></h3>
       <p>Une boîte à outils gratuite et open source pour streamers : chat multi-plateformes, alertes, objectifs, sondages, giveaways, timer de subathon… en overlays OBS, sans rien installer ni compte à connecter.</p>
-      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir le site" /></a>
-      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
+      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-334155?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir le site" /></a>
+      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
     </td>
   </tr>
@@ -60,12 +60,12 @@ Ingénieur cybersécurité et **consultant intégration**, basé en **France**. 
       <h3>💃 École SaaS</h3>
       <p>Un SaaS de gestion d'école de danse.</p>
       <img src="https://img.shields.io/badge/SaaS-0062FE?style=flat-square" alt="SaaS" />
-      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=white" alt="Dépôt privé" />
+      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-334155?style=flat-square&logo=github&logoColor=white" alt="Dépôt privé" />
     </td>
     <td width="50%" valign="top">
       <h3>🔗 <a href="https://ffd.gabin-simond.fr">FFD Connect</a></h3>
       <p>Une application indépendante de danse sportive, en bêta ouverte sur iPhone et Android : licence consultable sans réseau, programme des compétitions, musique d'entraînement par danse et gestion des membres du club. Non affiliée à la Fédération Française de Danse.</p>
-      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir le site" /></a>
+      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Ouvrir%20le%20site-334155?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir le site" /></a>
       <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
       <img src="https://img.shields.io/badge/B%C3%AAta%20ouverte-0062FE?style=flat-square" alt="Bêta ouverte" />
@@ -75,8 +75,8 @@ Ingénieur cybersécurité et **consultant intégration**, basé en **France**. 
     <td colspan="2" valign="top">
       <h3>🏠 <a href="https://homelab.gabin-simond.fr">Documentation Homelab</a></h3>
       <p>Le journal de bord public de mon homelab : architecture, services auto-hébergés, durcissement, observabilité et runbooks — de quoi tout reconstruire de zéro.</p>
-      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Lire la documentation" /></a>
-      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
+      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-334155?style=flat-square&logo=safari&logoColor=white" alt="Lire la documentation" /></a>
+      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" alt="Docusaurus" />
@@ -188,9 +188,9 @@ Une mission se déroule en quatre temps : comprendre le métier, cadrer la solut
 
 Un projet ? Décrivez votre besoin, votre contexte et votre échéance, je vous réponds avec un devis.
 
-<a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-0b1020?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
-<a href="tel:+33761168918"><img src="https://img.shields.io/badge/%2B33%207%2061%2016%2089%2018-0b1020?style=for-the-badge" alt="+33 7 61 16 89 18" /></a>
-<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
+<a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-334155?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
+<a href="tel:+33761168918"><img src="https://img.shields.io/badge/%2B33%207%2061%2016%2089%2018-334155?style=for-the-badge" alt="+33 7 61 16 89 18" /></a>
+<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=334155" alt="gabin-simond.fr" /></a>
 
 <br />
 <br />

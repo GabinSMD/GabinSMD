@@ -23,7 +23,7 @@ Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France*
 - 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
 - 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
 - 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons ([la doc est en ligne](https://homelab.gabin-simond.fr))
-- 🧩 &nbsp;**Touche-à-tout** — TypeScript, Java, JavaScript, selon ce que le projet demande
+- 🧩 &nbsp;**Touche-à-tout** — TypeScript, JavaScript, Bash, selon ce que le projet demande
 - 📝 &nbsp;**Je documente ce que je construis** — parce qu'un projet sans doc est un projet qu'on refait
 - 🌐 &nbsp;Tout le reste est sur **[gabin-simond.fr](https://gabin-simond.fr)**
 
@@ -39,7 +39,6 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />

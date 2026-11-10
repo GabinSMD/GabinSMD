@@ -18,7 +18,7 @@
 
 ## 👋 Salut, moi c'est Gabin
 
-Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, un jeu de plateau en Java, ou un homelab qui fait tourner toute ma stack à la maison.
+Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, une boîte à outils pour streamers, ou un homelab qui fait tourner toute ma stack à la maison.
 
 - 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
 - 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
@@ -143,7 +143,7 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🏠 <a href="https://homelab.gabin-simond.fr">homelab-doc</a></h3>
       <p>Le journal de bord public de mon homelab : architecture, services auto-hébergés, durcissement, observabilité et runbooks — de quoi tout reconstruire de zéro.</p>
       <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Lire la documentation" /></a>
@@ -151,12 +151,6 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" alt="Docusaurus" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏰 <a href="https://github.com/GabinSMD/citadelles">citadelles</a></h3>
-      <p>Le jeu de société Citadelles, réimplémenté en Java.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Jeu-6D28D9?style=flat-square" alt="Jeu" />
     </td>
   </tr>
 </table>

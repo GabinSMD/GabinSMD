@@ -177,12 +177,8 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
 
 ## 💼 Travailler avec moi
 
-Votre problématique métier, un outil sur mesure. Je travaille en indépendant, et une mission se déroule en quatre temps : **comprendre** votre métier et vos contraintes, **cadrer** la solution et le devis, **construire et sécuriser** l'outil, puis le **mettre en ligne et le documenter**.
-
-- 🛠️ &nbsp;**Outils métier sur mesure** — des applications parties d'un besoin concret, comme celles présentées plus haut
-- 🔐 &nbsp;**DevSecOps et sécurisation** — analyse du code, détection de secrets, scan des images, dépendances tenues à jour
-- 🏠 &nbsp;**Auto-hébergement et infrastructure** — services sous Docker, reverse proxy, authentification, supervision, sauvegardes, avec leur documentation
-- 🌐 &nbsp;**Sites WordPress clés en main** — installation, certificat SSL, protection contre les attaques courantes, sauvegardes automatiques, nom de domaine et hébergement
+Je travaille aussi en indépendant : outils métier sur mesure, DevSecOps et sécurisation, auto-hébergement et infrastructure, sites WordPress clés en main.
+Une mission se déroule en quatre temps : comprendre le métier, cadrer la solution, construire et sécuriser l'outil, puis le mettre en ligne et le documenter.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 

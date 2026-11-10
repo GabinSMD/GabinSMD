@@ -177,12 +177,8 @@ What I actually use in my projects and on my homelab.
 
 ## 💼 Work with me
 
-Your business problem, a tailor-made tool. I work as a freelancer, and a project runs in four steps: **understand** your business and constraints, **scope** the solution and the quote, **build and secure** the tool, then **ship and document** it.
-
-- 🛠️ &nbsp;**Custom business tools** — applications that start from a concrete need, like the ones above
-- 🔐 &nbsp;**DevSecOps and hardening** — code analysis, secret detection, image scanning, dependencies kept up to date
-- 🏠 &nbsp;**Self-hosting and infrastructure** — Docker services, reverse proxy, authentication, monitoring, backups, all documented
-- 🌐 &nbsp;**Turnkey WordPress sites** — setup, SSL certificate, protection against common attacks, automatic backups, domain name and hosting
+I also work as a freelancer: custom business tools, DevSecOps and hardening, self-hosting and infrastructure, turnkey WordPress sites.
+A project runs in four steps: understand the business, scope the solution, build and secure the tool, then ship and document it.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 

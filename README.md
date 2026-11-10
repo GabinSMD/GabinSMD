@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://gabin-simond.fr">
-  <img src="./assets/header.svg" alt="Gabin Simond — Developer &amp; DevSecOps. Code, a homelab and home-made projects." width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <img src="./assets/header.svg" alt="Gabin Simond — Development · Cybersecurity · Homelab" width="100%" />
+  </picture>
 </a>
 
 <br />
@@ -12,8 +15,8 @@
 <br />
 <br />
 
-<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Website" /></a>
-<img src="https://img.shields.io/badge/Cybersecurity%20Engineer-SecNumEdu-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Cybersecurity Engineer — SecNumEdu" />
+<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+<img src="https://img.shields.io/badge/Cybersecurity%20Engineer-SecNumEdu-0062FE?style=for-the-badge&labelColor=0b1020" alt="Cybersecurity Engineer — SecNumEdu" />
 
 </div>
 
@@ -39,15 +42,15 @@ Software engineer specialised in **cybersecurity**, based in **France**. I like 
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://petanque.gabin-simond.fr/">Pétanque Concours</a></h3>
       <p>Multi-club SaaS for running pétanque tournaments, with a full offline mode: draws, pools, brackets and scores all work without a connection at the pitch, then sync back.</p>
-      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Open%20the%20app-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the app" /></a>
-      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Open%20the%20app-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Open the app" /></a>
+      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
       <h3>📺 <a href="https://gabinsmd.github.io/StreamBox/index.html">StreamBox</a></h3>
       <p>A free, open-source toolbox for streamers: multi-platform chat, alerts, goals, polls, giveaways, subathon timer… as OBS overlays, with nothing to install and no account to connect.</p>
-      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the site" /></a>
-      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <a href="https://gabinsmd.github.io/StreamBox/index.html"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Open the site" /></a>
+      <a href="https://github.com/GabinSMD/StreamBox"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
     </td>
   </tr>
@@ -55,24 +58,24 @@ Software engineer specialised in **cybersecurity**, based in **France**. I like 
     <td width="50%" valign="top">
       <h3>💃 Ecole SAAS</h3>
       <p>A SaaS for managing dance schools.</p>
-      <img src="https://img.shields.io/badge/SaaS-6D28D9?style=flat-square" alt="SaaS" />
-      <img src="https://img.shields.io/badge/Private%20repo-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Private repo" />
+      <img src="https://img.shields.io/badge/SaaS-0062FE?style=flat-square" alt="SaaS" />
+      <img src="https://img.shields.io/badge/Private%20repo-0b1020?style=flat-square&logo=github&logoColor=white" alt="Private repo" />
     </td>
     <td width="50%" valign="top">
       <h3>🔗 <a href="https://ffd.gabin-simond.fr">FFD Connect</a></h3>
       <p>An independent dancesport app, in open beta on iPhone and Android: your licence available offline, the competition schedule, practice music sorted by dance, and club member management. Not affiliated with the Fédération Française de Danse.</p>
-      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Open the site" /></a>
+      <a href="https://ffd.gabin-simond.fr"><img src="https://img.shields.io/badge/Open%20the%20site-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Open the site" /></a>
       <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/Open%20beta-6D28D9?style=flat-square" alt="Open beta" />
+      <img src="https://img.shields.io/badge/Open%20beta-0062FE?style=flat-square" alt="Open beta" />
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>🏠 <a href="https://homelab.gabin-simond.fr">Homelab Documentation</a></h3>
       <p>The public logbook of my homelab: architecture, self-hosted services, hardening, observability and runbooks — everything needed to rebuild it from scratch.</p>
-      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Read%20the%20docs-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Read the documentation" /></a>
-      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Source code" /></a>
+      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Read%20the%20docs-0b1020?style=flat-square&logo=safari&logoColor=white" alt="Read the documentation" /></a>
+      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" alt="Docusaurus" />
@@ -177,7 +180,7 @@ What I actually use in my projects and on my homelab.
 
 An idea, a question, a project? The easiest way is through my website.
 
-<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-a78bfa?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
+<a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=0b1020" alt="gabin-simond.fr" /></a>
 
 <br />
 <br />

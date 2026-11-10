@@ -9,6 +9,7 @@
 
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Site web" /></a>
 <a href="https://github.com/GabinSMD?tab=repositories"><img src="https://img.shields.io/badge/Mes%20d%C3%A9p%C3%B4ts-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Dépôts GitHub" /></a>
+<img src="https://img.shields.io/badge/Ing%C3%A9nieur%20Cybers%C3%A9curit%C3%A9-SecNumEdu-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Ingénieur Cybersécurité — SecNumEdu" />
 <a href="https://github.com/GabinSMD?tab=followers"><img src="https://img.shields.io/github/followers/GabinSMD?style=for-the-badge&label=Followers&labelColor=0b1020&color=1a1238&logo=github&logoColor=f0abfc" alt="Followers" /></a>
 
 </div>
@@ -17,8 +18,9 @@
 
 ## 👋 Salut, moi c'est Gabin
 
-Développeur basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, un jeu de plateau en Java, ou un homelab qui fait tourner toute ma stack à la maison.
+Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, un jeu de plateau en Java, ou un homelab qui fait tourner toute ma stack à la maison.
 
+- 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
 - 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
 - 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons
 - 🧩 &nbsp;**Touche-à-tout** — TypeScript, Java, JavaScript, selon ce que le projet demande

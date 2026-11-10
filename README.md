@@ -7,6 +7,11 @@
 <br />
 <br />
 
+<strong>🇫🇷 Français</strong> &nbsp;·&nbsp; <a href="./README.en.md">🇬🇧 English</a>
+
+<br />
+<br />
+
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/gabin--simond.fr-0b1020?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Site web" /></a>
 <a href="https://github.com/GabinSMD?tab=repositories"><img src="https://img.shields.io/badge/Mes%20d%C3%A9p%C3%B4ts-0b1020?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Dépôts GitHub" /></a>
 <img src="https://img.shields.io/badge/Ing%C3%A9nieur%20Cybers%C3%A9curit%C3%A9-SecNumEdu-a78bfa?style=for-the-badge&labelColor=0b1020" alt="Ingénieur Cybersécurité — SecNumEdu" />

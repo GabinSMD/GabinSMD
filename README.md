@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://gabin-simond.fr">
-  <img src="./assets/header.svg" alt="Gabin Simond — Développeur. Du code, un homelab et des projets faits maison." width="100%" />
+  <img src="./assets/header.svg" alt="Gabin Simond — Développeur &amp; DevSecOps. Du code, un homelab et des projets faits maison." width="100%" />
 </a>
 
 <br />
@@ -17,9 +17,10 @@
 
 ## 👋 Salut, moi c'est Gabin
 
-Développeur basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, un jeu de plateau en Java, ou un Raspberry Pi qui fait tourner toute ma stack à la maison.
+Développeur basé en **France**. J'aime comprendre comment les choses fonctionnent, puis les reconstruire à ma façon : une appli web, un jeu de plateau en Java, ou un homelab qui fait tourner toute ma stack à la maison.
 
-- 🏠 &nbsp;**Homelab** — un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons
+- 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
+- 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons
 - 🧩 &nbsp;**Touche-à-tout** — TypeScript, Java, JavaScript, selon ce que le projet demande
 - 📝 &nbsp;**Je documente ce que je construis** — parce qu'un projet sans doc est un projet qu'on refait
 - 🌐 &nbsp;Tout le reste est sur **[gabin-simond.fr](https://gabin-simond.fr)**
@@ -59,6 +60,19 @@ Développeur basé en **France**. J'aime comprendre comment les choses fonctionn
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎓 Ecole SAAS</h3>
+      <p>Une plateforme SaaS de gestion d'école.</p>
+      <img src="https://img.shields.io/badge/SaaS-6D28D9?style=flat-square" alt="SaaS" />
+      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 FFD Connect</h3>
+      <p>Un projet en cours de développement.</p>
+      <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4t%20priv%C3%A9-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Dépôt privé" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏠 <a href="https://github.com/GabinSMD/homelab-doc">homelab-doc</a></h3>
       <p>La documentation de mon homelab sur Raspberry Pi 4 : stack Docker, optimisations de l'OS et architecture.</p>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
@@ -87,6 +101,6 @@ Une idée, une question, un projet ? Le plus simple est de passer par mon site.
 <br />
 <br />
 
-<sub>Fait avec ☕ et un Raspberry Pi qui ne dort jamais.</sub>
+<sub>Fait avec ☕ et un homelab qui ne dort jamais.</sub>
 
 </div>

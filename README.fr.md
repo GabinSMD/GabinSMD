@@ -44,8 +44,6 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
     </td>
   </tr>
@@ -54,15 +52,9 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-      <img src="https://img.shields.io/badge/Bun-14151A?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-      <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat-square&logo=docusaurus&logoColor=white" alt="Docusaurus" />
-      <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
   <tr>
@@ -70,18 +62,10 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-      <img src="https://img.shields.io/badge/ZimaBoard-1F2937?style=flat-square" alt="ZimaBoard" />
       <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
-      <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
       <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-      <img src="https://img.shields.io/badge/AdGuard%20Home-68BC71?style=flat-square&logo=adguard&logoColor=white" alt="AdGuard Home" />
       <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-      <img src="https://img.shields.io/badge/Forgejo-FB923C?style=flat-square&logo=forgejo&logoColor=white" alt="Forgejo" />
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
     </td>
   </tr>
   <tr>
@@ -89,15 +73,10 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/Authelia-113155?style=flat-square&logo=authelia&logoColor=white" alt="Authelia" />
       <img src="https://img.shields.io/badge/CrowdSec-F5A623?style=flat-square&logo=crowdsec&logoColor=black" alt="CrowdSec" />
-      <img src="https://img.shields.io/badge/Fail2ban-B91C1C?style=flat-square" alt="Fail2ban" />
-      <img src="https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=vaultwarden&logoColor=white" alt="Vaultwarden" />
       <img src="https://img.shields.io/badge/SOPS%20%2B%20age-0F766E?style=flat-square" alt="SOPS + age" />
-      <img src="https://img.shields.io/badge/YubiKey-84BD00?style=flat-square&logo=yubico&logoColor=black" alt="YubiKey" />
       <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" />
       <img src="https://img.shields.io/badge/Gitleaks-7C3AED?style=flat-square" alt="Gitleaks" />
-      <img src="https://img.shields.io/badge/CodeQL-24292F?style=flat-square&logo=github&logoColor=white" alt="CodeQL" />
       <img src="https://img.shields.io/badge/Renovate-308BE3?style=flat-square&logo=renovate&logoColor=white" alt="Renovate" />
-      <img src="https://img.shields.io/badge/Restic-0E7490?style=flat-square" alt="Restic" />
     </td>
   </tr>
   <tr>
@@ -105,9 +84,7 @@ Ce que j'utilise vraiment dans mes projets et sur mon homelab.
     <td>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=black" alt="Loki" />
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>

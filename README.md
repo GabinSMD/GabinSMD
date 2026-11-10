@@ -22,7 +22,7 @@ Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France*
 
 - 🎓 &nbsp;**Diplôme d'ingénieur du numérique**, spécialité Cybersécurité — formation labellisée **SecNumEdu** par l'ANSSI
 - 🔐 &nbsp;**DevSecOps** — c'est une grosse partie de ce que je fais : la sécurité pensée dès le pipeline, pas ajoutée à la fin
-- 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons
+- 🏠 &nbsp;**Homelab** — des ZimaBoard et un Raspberry Pi 4, du Docker, et un OS optimisé aux petits oignons ([la doc est en ligne](https://homelab.gabin-simond.fr))
 - 🧩 &nbsp;**Touche-à-tout** — TypeScript, Java, JavaScript, selon ce que le projet demande
 - 📝 &nbsp;**Je documente ce que je construis** — parce qu'un projet sans doc est un projet qu'on refait
 - 🌐 &nbsp;Tout le reste est sur **[gabin-simond.fr](https://gabin-simond.fr)**
@@ -75,8 +75,10 @@ Ingénieur du numérique spécialisé en **cybersécurité**, basé en **France*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/GabinSMD/homelab-doc">homelab-doc</a></h3>
+      <h3>🏠 <a href="https://homelab.gabin-simond.fr">homelab-doc</a></h3>
       <p>La documentation de mon homelab sur Raspberry Pi 4 : stack Docker, optimisations de l'OS et architecture.</p>
+      <a href="https://homelab.gabin-simond.fr"><img src="https://img.shields.io/badge/Lire%20la%20doc-0b1020?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Lire la documentation" /></a>
+      <a href="https://github.com/GabinSMD/homelab-doc"><img src="https://img.shields.io/badge/Code-0b1020?style=flat-square&logo=github&logoColor=a78bfa" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />

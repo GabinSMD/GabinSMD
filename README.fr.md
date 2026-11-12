@@ -41,10 +41,10 @@ Ingénieur cybersécurité et **consultant intégration**, basé en **France**. 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://petanque.gabin-simond.fr/">Pétanque Concours</a></h3>
+      <h3>🎯 <a href="https://treizero.gabin-simond.fr/">Treizéro</a></h3>
       <p>Gestion de concours de pétanque en SaaS multi-clubs, avec un mode hors-ligne complet : tirages, poules, tableaux et scores fonctionnent sans réseau au boulodrome, puis se synchronisent.</p>
-      <a href="https://petanque.gabin-simond.fr/"><img src="https://img.shields.io/badge/Ouvrir%20l'app-334155?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir l'application" /></a>
-      <a href="https://github.com/GabinSMD/petanque"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
+      <a href="https://treizero.gabin-simond.fr/"><img src="https://img.shields.io/badge/Ouvrir%20l'app-334155?style=flat-square&logo=safari&logoColor=white" alt="Ouvrir l'application" /></a>
+      <a href="https://github.com/GabinSMD/treizero"><img src="https://img.shields.io/badge/Code-334155?style=flat-square&logo=github&logoColor=white" alt="Code source" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
@@ -189,7 +189,7 @@ Une mission se déroule en quatre temps : comprendre le métier, cadrer la solut
 Un projet ? Décrivez votre besoin, votre contexte et votre échéance, je vous réponds avec un devis.
 
 <a href="mailto:contact@gabin-simond.fr"><img src="https://img.shields.io/badge/contact%40gabin--simond.fr-334155?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact@gabin-simond.fr" /></a>
-<a href="tel:+33761168918"><img src="https://img.shields.io/badge/%2B33%207%2061%2016%2089%2018-334155?style=for-the-badge" alt="+33 7 61 16 89 18" /></a>
+<a href="https://gabin-simond.fr/#contact"><img src="https://img.shields.io/badge/%2B33%207%2061%2016%2089%2018-334155?style=for-the-badge" alt="+33 7 61 16 89 18" /></a>
 <a href="https://gabin-simond.fr"><img src="https://img.shields.io/badge/%E2%86%92%20gabin--simond.fr-0062FE?style=for-the-badge&labelColor=334155" alt="gabin-simond.fr" /></a>
 
 <br />
